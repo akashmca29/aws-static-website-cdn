@@ -2,6 +2,8 @@
 
 ![Architecture](architecture.png)
 
+Global Users → Fast Delivery via CDN Edge Locations
+
 ---
 
 ## 📌 Overview
