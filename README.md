@@ -8,6 +8,7 @@
 This project demonstrates how to host a static website using Amazon S3 and deliver content globally using CloudFront CDN.
 
 The architecture is serverless, highly scalable, and cost-efficient.
+A scalable and cost-efficient static website hosting architecture using AWS S3 and CloudFront CDN.
 
 ---
 
@@ -17,7 +18,14 @@ User
 ↓  
 CloudFront (CDN)  
 ↓  
-S3 Bucket (Static Website Hosting)  
+S3 Bucket (Static Website Hosting) 
+- - -
+## 🎯 Why This Architecture?
+
+- Reduces latency using CDN
+- Improves performance globally
+- Eliminates server management
+- Highly cost-efficient
 
 ---
 
